@@ -1,0 +1,8 @@
+tests/
+reports/
+*.py
+*.html
+*.zip
+.env
+credentials*
+freemius/
