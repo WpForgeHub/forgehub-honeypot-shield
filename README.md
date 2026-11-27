@@ -28,6 +28,14 @@ Zero-CAPTCHA invisible honeypot and HMAC-signed time-trap spam shield for commen
 | Keyword Blacklist, Max Links & Disposable Email Blocker | — | ✅ |
 | Trusted IP Allowlist & Local Spam Log with CSV Export | — | ✅ |
 
+---
+
+## 📸 Admin Preview
+
+<p align="center">
+  <img src="assets/screenshot-1.png" alt="ForgeHub Honeypot Shield WordPress Admin Settings" width="100%" />
+</p>
+
 ## Installation
 
 1. Upload `forgehub-honeypot-shield` to `/wp-content/plugins/`.
